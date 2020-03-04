@@ -1,0 +1,93 @@
+[
+    {
+       "id":          0,
+       "name":        "Lionel Messi",
+       "team":      "Barcelona ",
+       "position":        "Forward",
+       "rating":      8.45,
+       "Goals":  14,
+       "pic":         "images/messi"
+    },
+    {
+        "id":          1,
+        "name":        "Luis Suarez",
+        "team":      "Barcelona ",
+        "position":        "Forward",
+        "rating":      7.55,
+        "Goals":  11,
+        "pic":         "images/suarez"
+     },
+     {
+        "id":          2,
+        "name":        "Antoine Griezmann",
+        "team":      "Barcelona ",
+        "position":        "Forward",
+        "rating":      7.19,
+        "Goals":  7,
+        "pic":         "images/Griezmann"
+     },
+     {
+        "id":          3,
+        "name":        "Frenkie De Jong",
+        "team":      "Barcelona ",
+        "position":        "Midfielder",
+        "rating":      7.09,
+        "Goals":  2,
+        "pic":         "images/dejong"
+     },
+     {
+        "id":          4,
+        "name":        "Sergio Busquets",
+        "team":      "Barcelona ",
+        "position":        "Midfielder",
+        "rating":      7.35,
+        "Goals":  2,
+        "pic":         "images/busi"
+     },
+     {
+        "id":          5,
+        "name":        "Jordi Alba",
+        "team":      "Barcelona ",
+        "position":        "Defender",
+        "rating":      7.1,
+        "Goals":  1,
+        "pic":         "images/alba"
+     },
+     {
+        "id":          6,
+        "name":        "Gerard Pique",
+        "team":      "Barcelona ",
+        "position":        "Defender",
+        "rating":      6.93,
+        "Goals":  1,
+        "pic":         "images/pique"
+     },
+     {
+        "id":          7,
+        "name":        "Clement Lenglet",
+        "team":      "Barcelona ",
+        "position":        "Defender",
+        "rating":      6.5,
+        "Goals":  2,
+        "pic":         "images/lenglet"
+     },
+     {
+        "id":          8,
+        "name":        "Ansu Fati",
+        "team":      "Barcelona ",
+        "position":        "Forward",
+        "rating":     6.82,
+        "Goals":  2,
+        "pic":         "images/ansu"
+     },
+     {
+        "id":          9,
+        "name":        "Arturo Vidal",
+        "team":      "Barcelona ",
+        "position":        "Midfielder",
+        "rating":      6.87,
+        "Goals":  6,
+        "pic":         "images/vidal"
+     }
+
+]
